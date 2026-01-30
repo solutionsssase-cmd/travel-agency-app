@@ -1,0 +1,10 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="32" fill="#EAF7F0"/>
+  <path d="M0 520C140 470 270 450 430 470C590 490 720 580 900 620C1010 645 1100 650 1200 640V800H0V520Z" fill="#CBEAD8"/>
+  <path d="M0 610C150 560 310 570 490 610C670 650 830 720 1040 760C1110 774 1160 780 1200 780V800H0V610Z" fill="#A7D8BF"/>
+  <circle cx="990" cy="190" r="90" fill="#FFD39F"/>
+  <circle cx="990" cy="190" r="55" fill="#FFB766"/>
+  <rect x="120" y="140" width="420" height="130" rx="20" fill="white"/>
+  <text x="150" y="200" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#136C5F">Bali Wellness Retreat</text>
+  <text x="150" y="240" font-family="Arial, sans-serif" font-size="18" fill="#3D7C6F">Ubud • 7 days • Yoga + Villas</text>
+</svg>

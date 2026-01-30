@@ -1,0 +1,10 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="32" fill="#E9F4FF"/>
+  <path d="M0 540C200 470 380 430 540 450C700 470 860 600 1020 640C1110 662 1170 662 1200 650V800H0V540Z" fill="#CFE3FF"/>
+  <path d="M0 640C180 590 360 610 540 650C720 690 890 740 1060 770C1120 781 1170 785 1200 785V800H0V640Z" fill="#B5D2FF"/>
+  <circle cx="180" cy="220" r="110" fill="#9FD7FF"/>
+  <circle cx="180" cy="220" r="65" fill="#6BBEF5"/>
+  <rect x="360" y="140" width="460" height="130" rx="20" fill="white"/>
+  <text x="390" y="200" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#1C4C9B">Iceland Northern Lights</text>
+  <text x="390" y="240" font-family="Arial, sans-serif" font-size="18" fill="#4B6FA8">Reykjavík • 5 days • Aurora hunts</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="28" fill="#EAF4FF"/>
+  <path d="M0 380C130 340 260 330 400 350C540 370 660 450 800 500V600H0V380Z" fill="#CFE3FF"/>
+  <circle cx="640" cy="170" r="80" fill="#FFD79A"/>
+  <circle cx="640" cy="170" r="45" fill="#FFB35C"/>
+  <rect x="80" y="120" width="340" height="120" rx="20" fill="white"/>
+  <text x="110" y="190" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2D5C9F">Sunrise hike</text>
+</svg>
