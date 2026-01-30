@@ -1,0 +1,10 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="32" fill="#FFF2E6"/>
+  <path d="M0 540C150 480 330 470 520 520C710 570 860 640 1040 690C1120 713 1170 720 1200 718V800H0V540Z" fill="#F6D6B8"/>
+  <path d="M0 640C190 600 360 620 560 660C760 700 940 740 1120 770C1160 776 1185 778 1200 780V800H0V640Z" fill="#EFC29B"/>
+  <circle cx="950" cy="190" r="95" fill="#FFD5B5"/>
+  <circle cx="950" cy="190" r="55" fill="#FFB37B"/>
+  <rect x="120" y="140" width="450" height="130" rx="20" fill="white"/>
+  <text x="150" y="200" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#9B4E1C">Morocco Desert Glamping</text>
+  <text x="150" y="240" font-family="Arial, sans-serif" font-size="18" fill="#B46B3A">Marrakesh • 6 days • Sahara camp</text>
+</svg>

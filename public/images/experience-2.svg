@@ -1,0 +1,8 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="28" fill="#FFF5EC"/>
+  <path d="M0 390C140 350 280 350 420 380C560 410 690 480 800 520V600H0V390Z" fill="#F4D7C2"/>
+  <circle cx="160" cy="170" r="80" fill="#FFE0B8"/>
+  <circle cx="160" cy="170" r="45" fill="#FFB97A"/>
+  <rect x="300" y="120" width="360" height="120" rx="20" fill="white"/>
+  <text x="330" y="190" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#9A531D">Local cuisine</text>
+</svg>

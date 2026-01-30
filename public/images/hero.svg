@@ -1,0 +1,14 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="900" rx="48" fill="#E9F2FF"/>
+  <path d="M0 620C180 560 360 520 560 540C760 560 940 660 1140 700C1250 726 1330 724 1400 710V900H0V620Z" fill="#C7DAFF"/>
+  <path d="M0 700C200 640 390 640 580 680C770 720 960 840 1140 860C1270 874 1350 860 1400 850V900H0V700Z" fill="#B0CBFF"/>
+  <circle cx="1130" cy="250" r="120" fill="#FFD180"/>
+  <circle cx="1130" cy="250" r="70" fill="#FFB347"/>
+  <rect x="120" y="160" width="480" height="170" rx="24" fill="white"/>
+  <text x="160" y="230" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#1D3B8B">
+    Wanderly Escapes
+  </text>
+  <text x="160" y="280" font-family="Arial, sans-serif" font-size="20" fill="#5A6B8C">
+    Curated journeys • Boutique stays • Local guides
+  </text>
+</svg>
